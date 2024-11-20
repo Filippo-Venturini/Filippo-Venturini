@@ -4,9 +4,9 @@
 
 <h2 align="center">👨‍💻 Who am I:</h2>
 
-<p align="center">💻 Computer Science student</p> 
-<p align="center">🎓 Bachelor Degree in Computer Science and Engineering</p>
-<p align="center">📖 Studying for a Master Degree in Engineering and Computer Science</p>
+<p align="center">💻 Software Engineer</p> 
+<p align="center">🎓 Master Degree in Computer Science and Engineering</p>
+<p align="center">🤖 Passionate about IoT, Machine Learning, Distributed Systems, and VR/AR systems</p>
 
 <h2 align="center">📈 My Stats:</h2>
 
@@ -64,7 +64,4 @@
   <a href="https://www.linkedin.com/in/filippo-venturini-4265b8235/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:filippoventurini00@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>  
 </div>
