@@ -8,20 +8,6 @@
 <p align="center">🎓 Master Degree in Computer Science and Engineering</p>
 <p align="center">🤖 Passionate about IoT, Machine Learning, Distributed Systems, and VR/AR systems</p>
 
-<h2 align="center">📈 My Stats:</h2>
-
-<p align="center">
-  <a href="https://streak-stats.demolab.com/?user=Filippo-Venturini&theme=dark">
-    <img src="https://streak-stats.demolab.com/?user=Filippo-Venturini&theme=dark" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filippo-Venturini&langs_count=30&theme=dracula&bg_color=135,0F2027,203A43,2C5364&layout=compact" alt="Top Langs" />
-  </a>
-</p>
-
 <h2 align="center">🛠️ Languages and Tools: </h2>
 
 <div>
